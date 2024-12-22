@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT3 TodoMVC - Limpar tarefas completas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d4bc513-52f2-413e-a65c-b52c34b195b4</testCaseGuid>
+</TestCaseEntity>

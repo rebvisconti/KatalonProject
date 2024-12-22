@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT4 TodoMVC - Filtro Tarefas Ativas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c96410ec-d457-484b-965c-fa55fe490282</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT6 - Checkout de compra com todos os dados preenchidos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6cfa9121-e614-4e6e-8628-d7b31cf7beb6</testCaseGuid>
+</TestCaseEntity>

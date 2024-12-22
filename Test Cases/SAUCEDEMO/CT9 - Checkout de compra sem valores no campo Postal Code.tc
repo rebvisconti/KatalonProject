@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT9 - Checkout de compra sem valores no campo Postal Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b83c5be2-b97c-4c20-b984-d21ccfeafd7b</testCaseGuid>
+</TestCaseEntity>

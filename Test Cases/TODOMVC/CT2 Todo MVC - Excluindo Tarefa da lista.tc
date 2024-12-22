@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT2 Todo MVC - Excluindo Tarefa da lista</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0260f06c-10ef-4379-b1fd-b0f7d6fabf18</testCaseGuid>
+</TestCaseEntity>

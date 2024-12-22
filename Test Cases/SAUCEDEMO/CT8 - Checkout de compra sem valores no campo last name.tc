@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT8 - Checkout de compra sem valores no campo last name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>09aa34f0-6daa-4115-9455-b8c4c419731c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT10 - Checkout de compra carrinho vazio</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ffdcd30-33ff-46c7-87bf-272a05a69979</testCaseGuid>
+</TestCaseEntity>

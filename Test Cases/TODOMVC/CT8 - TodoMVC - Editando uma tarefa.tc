@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT8 - TodoMVC - Editando uma tarefa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2570a0eb-5b94-48c0-a868-0c4286aa7b14</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT7 - Checkout de compra sem dados preenchidos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe2b7c93-638e-47a1-92b1-3cf50bcbf2fb</testCaseGuid>
+</TestCaseEntity>

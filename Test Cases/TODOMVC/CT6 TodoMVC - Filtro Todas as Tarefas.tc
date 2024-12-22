@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT6 TodoMVC - Filtro Todas as Tarefas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5861ae2-56ee-4a5d-95b6-2bef1071b535</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Dados de Login</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>6345400e-4c60-477c-8c10-f1fbefc4143b</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>standard_user qcu24s4901FyWDTwXGr6XA%3D%3D</data>
+   <data>locked_out_user qcu24s4901FyWDTwXGr6XA%3D%3D</data>
+   <data>problem_user qcu24s4901FyWDTwXGr6XA%3D%3D</data>
+   <data>performance_glitch_user qcu24s4901FyWDTwXGr6XA%3D%3D</data>
+   <data>error_user qcu24s4901FyWDTwXGr6XA%3D%3D</data>
+   <data>visual_user qcu24s4901FyWDTwXGr6XA%3D%3D</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>username</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>password</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

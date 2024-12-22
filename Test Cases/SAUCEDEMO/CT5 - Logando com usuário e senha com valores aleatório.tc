@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT5 - Logando com usuário e senha com valores aleatório</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d254d0db-204a-420d-9ceb-333ed8395b9b</testCaseGuid>
+</TestCaseEntity>

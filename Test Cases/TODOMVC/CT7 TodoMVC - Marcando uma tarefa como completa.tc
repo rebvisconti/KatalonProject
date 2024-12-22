@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT7 TodoMVC - Marcando uma tarefa como completa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b0e03c7-4f19-46ad-a3e7-af48e6272d92</testCaseGuid>
+</TestCaseEntity>
