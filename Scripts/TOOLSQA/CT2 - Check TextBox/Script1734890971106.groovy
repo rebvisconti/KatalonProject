@@ -27,20 +27,6 @@ WebUI.click(findTestObject('Object Repository/Page_DEMOQA/div_Elements_card-up')
 
 WebUI.click(findTestObject('Object Repository/Page_DEMOQA/li_Text Box'))
 
-WebUI.click(findTestObject('Page_DEMOQA/input_Full Name_userName'))
-
-WebUI.setText(findTestObject('Object Repository/Page_DEMOQA/input_Full Name_userName'), 'Rebeca')
-
-WebUI.setText(findTestObject('Object Repository/Page_DEMOQA/input_Email_userEmail'), 'rebeca@teste.com')
-
-WebUI.setText(findTestObject('Object Repository/Page_DEMOQA/textarea_Current Address_currentAddress'), 'direção')
-
-WebUI.setText(findTestObject('Object Repository/Page_DEMOQA/textarea_Permanent Address_permanentAddress'), 'direção')
-
-WebUI.scrollToPosition(0, 130)
-
-WebUI.click(findTestObject('Object Repository/Page_DEMOQA/button_Submit'))
-
 WebUI.click(findTestObject('Page_DEMOQA/h1_Text Box'))
 
 WebUI.rightClick(findTestObject('Page_DEMOQA/h1_Text Box'))
