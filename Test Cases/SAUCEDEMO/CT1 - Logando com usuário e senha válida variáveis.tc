@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>CT1 - Logando com usuário e senha válida</name>
+   <name>CT1 - Logando com usuário e senha válida variáveis</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

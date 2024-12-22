@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>CT13 - Login usurário e senha válida</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>b0797018-aa87-4efc-a375-27ac1d33be81</testCaseGuid>
+   <testCaseGuid>5489178d-48c8-43e8-898e-276c15495758</testCaseGuid>
 </TestCaseEntity>

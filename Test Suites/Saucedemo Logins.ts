@@ -22,7 +22,7 @@
       <guid>04bb0aac-c106-456b-b256-13db9ee76431</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SAUCEDEMO/CT1 - Logando com usuário e senha válida</testCaseId>
+      <testCaseId>Test Cases/SAUCEDEMO/CT1 - Logando com usuário e senha válida variáveis</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

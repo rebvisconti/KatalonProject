@@ -17,15 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://www.saucedemo.com/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_user-name'), 'performance_glitch_user')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_password'), 'qcu24s4901FyWDTwXGr6XA==')
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_login-button'))
+WebUI.callTestCase(findTestCase('SAUCEDEMO/CT13 - Login usurário e senha válida'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart'))
 
@@ -44,4 +36,6 @@ WebUI.setText(findTestObject('Page_Swag Labs/input_Checkout Your Information_pos
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Cancel_continue'))
 
 WebUI.verifyElementText(findTestObject('Page_Swag Labs/h3_Error Last Name is required'), 'Error: Last Name is required')
+
+WebUI.closeBrowser()
 
